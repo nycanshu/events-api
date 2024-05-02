@@ -8,7 +8,8 @@ module.exports = {
         res.json(
           {
             "Owner": 'Himanshu Kumar',
-            "About Me": 'I am a pre final year student seeking for an internship in the field of software development. I am a quick learner and have a good understanding of data structures and algorithms. I have a good understanding of web development and have worked on various projects. I am a team player and have good communication skills. I am always ready to learn new things and explore new technologies. I am looking for an opportunity where I can learn and grow as a software developer.',
+            "About Me": 'I am a pre final year student seeking for an internship in the field of software development. I am a quick learner and have a good understanding of data structures and algorithms.',
+            "skills" : 'Flutter, Node.js, Express.js, MongoDB, C++, Java, Python, HTML, CSS, JavaScript, Git, Github, Firebase, REST API, SQL, NoSQL, Data Structures, Algorithms, Problem Solving',
             "connect here" : 'https://www.linkedin.com/in/okay-anshu/',
             "github" : 'https://github.com/nycanshu',
           }
