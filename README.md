@@ -93,7 +93,7 @@ This is basic crud api for testing and learning purpose.
 
 ## Feedback
 
-If you have any feedback, please mail me at "computermasteranshu@gmail.com"
+If you have any feedback, please mail me at "himanshu.is.dev@gmail.com"
 
 
 ## 🔗 Links
